@@ -1,3 +1,4 @@
+package de.codeforces;
 import java.util.Scanner;
 
 public class PerfectTeam {

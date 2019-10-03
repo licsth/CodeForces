@@ -4,7 +4,7 @@ This repository contains some solutions to current Problems in from Codeforces' 
 
 Feel free to add yours!
 
-# Solves Problems
+# Solved Problems
 - 1214B
 - 1221A
 - 1221B

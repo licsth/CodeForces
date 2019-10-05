@@ -6,3 +6,5 @@
 /PerfectTeam.class
 /bin/
 /target/
+.idea
+*.iml*

@@ -5,6 +5,7 @@ This repository contains some solutions to current problems from Codeforces' Pro
 Feel free to add yours!
 
 # Solved Problems
+- 1108A
 - 1214B
 - 1221A
 - 1221B
